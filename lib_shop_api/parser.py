@@ -46,7 +46,8 @@ class Parser():
 			price = str(div.find("div", class_="product-card-item__prices").find("p").text.replace("₽","").strip().replace(u"\xa0",u"")).encode('utf-8')
 			image = urls.URL_PREFIX_IMAGE + div.find("a",class_="product-card-item__image").find("img").get("src")
 			description = div.find("p", class_="product-card-item__description").text
-			temp_array_products.append(models.Product(title, image, price, description))
+			catalog = soup.find("div", class_="catalog__row").find("h1").text
+			temp_array_products.append(models.Product(title, image, price, description, catalog))
 		return temp_array_products
 
 	def get_products_iterator(self, category:str, max_products:int=1) -> list[ models.Product ]:
@@ -63,7 +64,8 @@ class Parser():
 				price = str(div.find("div", class_="product-card-item__prices").find("p").text.replace("₽","").strip().replace(u"\xa0",u"")).encode('utf-8')
 				image = urls.URL_PREFIX_IMAGE + div.find("a",class_="product-card-item__image").find("img").get("src")
 				description = div.find("p", class_="product-card-item__description").text
-				product = models.Product(title, image, price, description)
+				catalog = soup.find("div", class_="catalog__row").find("h1").text
+				product = models.Product(title, image, price, description, catalog)
 				counter_iter += 1
 				yield product
 				

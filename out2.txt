@@ -1,5 +1,9 @@
 
 url: https://skypka.com/katalog/kompyuternaya-tekhnika/noutbuki-i-netbuki/
+
+url: https://skypka.com/katalog/kompyuternaya-tekhnika/noutbuki-i-netbuki/
+
+url: https://skypka.com/katalog/kompyuternaya-tekhnika/noutbuki-i-netbuki/
 product: ('Ноутбук Packard Bell Celeron 2955/2/HDD 300', 'https://skypka.com/upload/iblock/bac/b1r2w6zmwby3nzpv22dd8xjf9j5ek194.jpeg', b'3386', 'г. Калуга, ул. Кирова, д. 32')
 
 url: https://skypka.com/katalog/kompyuternaya-tekhnika/monitory/
@@ -15,7 +19,7 @@ url: https://skypka.com/katalog/kompyuternaya-tekhnika/monobloki/
 product: ('Моноблок LENOVO FOD6', 'https://skypka.com/upload/iblock/d35/qdvcd710dyz6q0k3bn94ue1afe4hdhhf.jpeg', b'11543', 'Жуковский (с. Быково), ул. Театральная, д. 1а')
 
 url: https://skypka.com/katalog/telefony-i-aksessuary/smartfony/
-product: ('Мобильный телефон Tecno Pova 6 Neo', 'https://skypka.com/upload/iblock/655/ubh2mi8rpr01ixgvfwf1bisfdon4nnoj.jpeg', b'11209', 'г. Подольск, ул. Матросская, д. 11А')
+product: ('Смартфон Realme Note 50', 'https://skypka.com/upload/iblock/2aa/h0qvarho09rbjueq8vpy7zsyapdy6z7w.jpeg', b'3871', '143500 г.Истра Воскресенская пл. д.3')
 
 url: https://skypka.com/katalog/kompyuternaya-tekhnika/planshety/
 product: ('Планшет Huawei Mediapad M5 4/64', 'https://skypka.com/upload/iblock/87d/m6fdkdx08zsebucdos4wk50bh80fmzbk.jpeg', b'5820', 'г. Ногинск, ул. Патриаршая 7а')
@@ -23,6 +27,72 @@ product: ('Планшет Huawei Mediapad M5 4/64', 'https://skypka.com/upload/i
 url: https://skypka.com/katalog/telefony-i-aksessuary/smart-chasy/
 product: ('Смарт-часы Xiaomi mi watch s1', 'https://skypka.com/upload/iblock/aa8/3na24cc9we0dcr6j7wsyin2tbcoq4i83.jpeg', b'4841', 'г. Калуга, ул. Кирова, д. 32')
 
-url: https://skypka.com/katalog/kompyuternaya-tekhnika/noutbuki-i-netbuki/
-product: ('Ноутбук Packard Bell Celeron 2955/2/HDD 300', 'https://skypka.com/upload/iblock/bac/b1r2w6zmwby3nzpv22dd8xjf9j5ek194.jpeg', b'3386', 'г. Калуга, ул. Кирова, д. 32')
+url: https://skypka.com/katalog/chasy/
+product: ('Часы S9 pro Max', 'https://skypka.com/upload/iblock/be5/thk1p3kz87u5revb1bdnfpuh79dcbjzn.jpeg', b'388', 'г. Тула, Красноармейский проспект, д. 48а')
 
+url: https://skypka.com/katalog/telefony-i-aksessuary/virtualnye-ochki/
+product: ('Очки виртуальной реальности VR SHINECON', 'https://skypka.com/upload/iblock/44e/5mtcs1fepbmum6s2hv83jwk3qeaxubgd.jpeg', b'485', 'г. Одинцово, ул. Советская, д. 9')
+
+url: https://skypka.com/katalog/telefony-i-aksessuary/fitnes-braslety/
+product: ('Фитнес-браслет Huawei band 9', 'https://skypka.com/upload/iblock/18e/a71o1cir5hg3ay6vqhajcjxtu9imah6h.jpeg', b'1746', 'г. Химки, мкр. Сходня, ул. Горького д. 3 стр. 1')
+
+url: https://skypka.com/katalog/telefony-i-aksessuary/elektronnye-knigi/
+product: ('Электронная книга Amazonkindle', 'https://skypka.com/upload/iblock/5e8/pdisu4prj7fsbzx0lphtli6qjnrg3xa7.jpeg', b'2479', 'г. Наро-Фоминск, ул. Полубоярова, д. 24, пом. 7')
+
+url: https://skypka.com/katalog/telefony-i-aksessuary/ekshn-kamery/
+product: ('Экшн-камера Aceline s-40', 'https://skypka.com/upload/iblock/ef1/zoes5bvbk97msbxfyjuvhn2vzroxyvv9.jpeg', b'1509', 'г. Тула, Красноармейский проспект, д. 48а')
+
+url: https://skypka.com/katalog/instrument/ruchnoy-instrument/
+product: ('Цепная электропила STERWINS yt4318', 'https://skypka.com/upload/iblock/621/ndvc8syqqyz6ahxwvct096zvv5bow3b9.jpeg', b'2910', 'г. Чехов, пл. Вокзальная, д. 8/2')
+
+url: https://skypka.com/katalog/instrument/elektroinstrument/
+product: ('**УШМ Bosch 125 рег', 'https://skypka.com/upload/iblock/123/71e32l8o7imb13aq4ig13n95ibxh14bz.jpeg', b'4559', 'Жуковский (с. Быково), ул. Театральная, д. 1а')
+
+url: https://skypka.com/katalog/instrument/izmeritelnie-instrumenti/
+product: ('BOSCH ProfessionaL GAM220', 'https://skypka.com/upload/iblock/483/s0vxethe1fa3pcawp9fx54jk134rohll.jpeg', b'12610', 'г. Мытищи, Шараповский проезд, д. 3А')
+
+url: https://skypka.com/katalog/instrument/silovaya-tekhnika/
+product: ('Компрессор', 'https://skypka.com/upload/iblock/4d5/gpj3gy2phex6k4d368qo05eoq2ptpn3r.jpeg', b'9700', '143500 г.Истра Воскресенская пл. д.3')
+
+url: https://skypka.com/katalog/instrument/zatochnye-stanki-tochila/
+
+url: https://skypka.com/katalog/tv-i-video/audiotekhnika/
+product: ('AV-ресивер jedia', 'https://skypka.com/upload/iblock/ad4/jj1mq1mb7r0r0d63fxgihump9ciab2hu.jpeg', b'7760', 'г. Королев, ул. Калинина 2, п.IV')
+
+url: https://skypka.com/katalog/tv-i-video/dvd-blu-ray-pleery/
+product: ('DVD-плеер Samsung', 'https://skypka.com/upload/iblock/dcd/x3kwt6144ci669v4wo94dtmhvznfprkv.jpeg', b'970', 'г. Воскресенск, ул.Октябрьская, д.10')
+
+url: https://skypka.com/katalog/tv-i-video/aksessuary-dlya-foto-i-video/
+product: ('Штатив REKAM VIDEOPOD RT-V4G', 'https://skypka.com/upload/iblock/3e7/9dk9tzjm02t6obsj2ro5sn2e4hfhs5nf.jpeg', b'1455', 'г. Долгопрудный улица Первомайская дом 52')
+
+url: https://skypka.com/katalog/tv-i-video/domashnie-kinoteatry/
+product: ('Hi-Fi система POLK AUDIO', 'https://skypka.com/upload/iblock/2c9/72e11m5kwllxqveerpg2y1cuyfvq1biw.jpeg', b'29100', 'г. Калуга, ул. Кирова, д. 32')
+
+url: https://skypka.com/katalog/tv-i-video/mikrofony/
+product: ('Микрофон HyPerx', 'https://skypka.com/upload/iblock/17d/6y7ozvjmacq0qgjic3avogn0vjd4o819.jpeg', b'4850', 'г. Тула, Красноармейский проспект, д. 48а')
+
+url: https://skypka.com/katalog/tv-i-video/sputnikovoe-i-tsifrovoe-tv/
+
+url: https://skypka.com/katalog/tv-i-video/televizory/
+product: ('Телевизор Artel 43', 'https://skypka.com/upload/iblock/be1/buppbco67c82z2kac5nxwdqtjr5af073.jpeg', b'17460', 'г. Электросталь, ул. Победы, д. 1, пом. 2')
+
+url: https://skypka.com/katalog/tv-i-video/tekhnika-hi-fi/
+product: ('Колонки F&D R215', 'https://skypka.com/upload/iblock/2ad/2xz9iaa9a0f3bv56aj9vnfh4m6606zv6.jpeg', b'582', 'г. Орехово-Зуево, ул. Бирюкова, д. 41')
+
+url: https://skypka.com/katalog/tv-i-video/fotoapparaty-i-obektivy/
+product: ('Фотоаппарат BELKA USA', 'https://skypka.com/upload/iblock/ab8/9nims8pokiq2irckc6qf72w94xrki1m3.jpeg', b'679', 'г. Раменское, ул. Ногина, д. 2')
+
+url: https://skypka.com/katalog/tv-i-video/proektory-i-ekrany/
+product: ('Проектор', 'https://skypka.com/upload/iblock/57c/a57jhb3681d3e0wponsd9enaa27dpo77.jpeg', b'4841', 'г. Раменское, ул. Советская, д. 16')
+
+url: https://skypka.com/katalog/tv-i-video/fotoapparaty-i-fototekhnika/
+product: ('Фоторамка Genius DPF-702', 'https://skypka.com/upload/iblock/6bb/5p1p90upcvhdihiu3ytu4fz6122oaz5a.jpeg', b'485', 'г. Королев, ул. Калинина 2, п.IV')
+
+url: https://skypka.com/katalog/tv-i-video/videokamery/
+product: ('Видеокамера Aceline S-60', 'https://skypka.com/upload/iblock/aff/v2iz2et6t1eqvtc2de3qd4ostgsytzmw.jpeg', b'1746', 'г. Раменское, ул. Советская, д. 16')
+
+url: https://skypka.com/katalog/sales/
+product: ('Ремни для гитар', 'https://skypka.com/upload/iblock/d6e/o389orn9aoyx2581c1ef9kcyao4wbnxg.jpeg', b'199', 'г. Орехово-Зуево, ул. Бирюкова, д. 41')
+
+url: https://skypka.com/katalog/prochie-tovary/
+product: ('Часы Apple SE 44mm 98%', 'https://skypka.com/upload/iblock/679/xqsnjch1wrjnhoiz3jp0eni1l7385l0v.jpeg', b'6781', 'г. Щелково, ул. Талсинская, д. 2А')

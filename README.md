@@ -44,6 +44,7 @@ print(str(product))
 print(product.title)
 print(product.image)
 print(product.price)
+print(product.catalog)
 print(product.description)
 
 # получиени из итератора
@@ -52,6 +53,43 @@ print(product.description)
 max_wait_out_product = 5
 for product in parser.get_products_iterator(K_DVD, max_wait_out_product)
 	print(product.title)
+
+# Поддерживаемые категории:
+K_NOTEBOOK
+K_MONITOR
+K_SYS_BLOCK
+K_MFU
+K_MONO_BLOCK
+K_SMARTPHONE
+K_TABLET
+K_SMART_WATCH
+K_WATCH
+K_VR
+K_FITNES
+K_E_BOOK
+K_ACTION_CAMERA
+K_FOR_GARDEN4
+K_ELECTROTOOL
+K_SENSORSTOOL
+K_STRONG_TECH
+K_MACHINE
+K_AUDIO_TECH
+K_DVD
+K_OTH_FOR_PHOTO_VIDEO
+K_HOME_KINOTEATR
+K_MICROPHONE
+K_FOR_TV
+K_TV
+K_HI_FI_TECH
+K_CAMERA
+K_PROECTOR
+K_CAMERA_TOOLS
+K_VIDEOCAMERA
+K_SALES
+K_OTHERS
+
+
+
 
 ```
 
