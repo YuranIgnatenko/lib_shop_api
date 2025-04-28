@@ -66,3 +66,4 @@ class Parser():
 				product = models.Product(title, image, price, description)
 				counter_iter += 1
 				yield product
+				
