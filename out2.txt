@@ -1,0 +1,28 @@
+
+url: https://skypka.com/katalog/kompyuternaya-tekhnika/noutbuki-i-netbuki/
+product: ('Ноутбук Packard Bell Celeron 2955/2/HDD 300', 'https://skypka.com/upload/iblock/bac/b1r2w6zmwby3nzpv22dd8xjf9j5ek194.jpeg', b'3386', 'г. Калуга, ул. Кирова, д. 32')
+
+url: https://skypka.com/katalog/kompyuternaya-tekhnika/monitory/
+product: ('Монитор Acer VG 270 bmiix', 'https://skypka.com/upload/iblock/dca/goovp6pyaq3ig0nfrgklqdf5lifega5f.jpeg', b'8730', 'г. Железнодорожный, ул.Советская, д. 2')
+
+url: https://skypka.com/katalog/kompyuternaya-tekhnika/sistemnye-bloki/
+product: ('Системный блок RX5700XT', 'https://skypka.com/upload/iblock/d5f/418gxyhdra11152gf276ozckl3r54dgm.jpeg', b'29100', 'г. Раменское, ул. Ногина, д. 2')
+
+url: https://skypka.com/katalog/kompyuternaya-tekhnika/mfu_print/
+product: ('МФУ DCP-L2520DLR', 'https://skypka.com/upload/iblock/201/u5fjq919nrwlvlj17gvffbw4xznjxmd9.jpeg', b'11209', 'г. Звенигород, ул. Ленина, 16')
+
+url: https://skypka.com/katalog/kompyuternaya-tekhnika/monobloki/
+product: ('Моноблок LENOVO FOD6', 'https://skypka.com/upload/iblock/d35/qdvcd710dyz6q0k3bn94ue1afe4hdhhf.jpeg', b'11543', 'Жуковский (с. Быково), ул. Театральная, д. 1а')
+
+url: https://skypka.com/katalog/telefony-i-aksessuary/smartfony/
+product: ('Мобильный телефон Tecno Pova 6 Neo', 'https://skypka.com/upload/iblock/655/ubh2mi8rpr01ixgvfwf1bisfdon4nnoj.jpeg', b'11209', 'г. Подольск, ул. Матросская, д. 11А')
+
+url: https://skypka.com/katalog/kompyuternaya-tekhnika/planshety/
+product: ('Планшет Huawei Mediapad M5 4/64', 'https://skypka.com/upload/iblock/87d/m6fdkdx08zsebucdos4wk50bh80fmzbk.jpeg', b'5820', 'г. Ногинск, ул. Патриаршая 7а')
+
+url: https://skypka.com/katalog/telefony-i-aksessuary/smart-chasy/
+product: ('Смарт-часы Xiaomi mi watch s1', 'https://skypka.com/upload/iblock/aa8/3na24cc9we0dcr6j7wsyin2tbcoq4i83.jpeg', b'4841', 'г. Калуга, ул. Кирова, д. 32')
+
+url: https://skypka.com/katalog/kompyuternaya-tekhnika/noutbuki-i-netbuki/
+product: ('Ноутбук Packard Bell Celeron 2955/2/HDD 300', 'https://skypka.com/upload/iblock/bac/b1r2w6zmwby3nzpv22dd8xjf9j5ek194.jpeg', b'3386', 'г. Калуга, ул. Кирова, д. 32')
+
