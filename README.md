@@ -20,7 +20,7 @@ pip install .
 
 ```python
 # импорт парсера
-from lib_shop_api import Parser
+from lib_shop_api.parser import Parser
 # имрорт категорий товаров для поиска
 from lib_shop_api.constants import K_NOTEBOOK, K_MONITOR, K_DVD
 
